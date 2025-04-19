@@ -8,6 +8,7 @@ const productsRouter = require("./routes/productsrouter");
 const usersRouter = require("./routes/usersrouter");
 const ownersRouter = require("./routes/ownersrouter");
 
+
 app.use(express.json());
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.urlencoded({extended: true}));
