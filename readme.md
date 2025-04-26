@@ -7,7 +7,7 @@ Product owners can register and add their beautiful bag collections for sale!
 
 ## 🌐 Live Demo
 
-🌐 **Live Demo:** [Click here to visit the site]()
+Site is in progress
 
 
 
