@@ -35,19 +35,14 @@ Site is in progress
 
 ## 📸 Screenshots
 
+
 ### Home Page
-<p align="center">
-  <img src="public/screenshots/startpage.png" alt="Home Page" style="border: 3px solid #ccc; border-radius: 10px; width:80%;">
-</p>
+![Home Page](public/screenshots/startpage.png)
 
 ### Shop Page
-<p align="center">
-  <img src="public/screenshots/homepage.png" alt="Shop Page" style="border: 3px solid #ccc; border-radius: 10px; width:80%;">
-</p>
+![Home Page](public/screenshots/homepage.png)
 
 ### Cart Page
-<p align="center">
-  <img src="public/screenshots/cart.png" alt="Cart Page" style="border: 3px solid #ccc; border-radius: 10px; width:80%;">
-</p>
+![Cart Page](public/screenshots/cart.png)
 
 ---
