@@ -7,7 +7,7 @@ Product owners can register and add their beautiful bag collections for sale!
 
 ## 🌐 Live Demo
 
-Check out the live site here: [Bag Shop App Live](In progess)
+🌐 **Live Demo:** [Click here to visit the site]()
 
 
 
