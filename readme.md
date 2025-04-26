@@ -7,9 +7,9 @@ Product owners can register and add their beautiful bag collections for sale!
 
 ## 🌐 Live Demo
 
-Check out the live site here: [Bag Shop App Live](https://your-live-site-link.com)
+Check out the live site here: [Bag Shop App Live](In progess)
 
-> (Replace the link with your actual deployed URL.)
+
 
 ---
 
@@ -36,14 +36,18 @@ Check out the live site here: [Bag Shop App Live](https://your-live-site-link.co
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](public/screenshots/startpage.png)
+<p align="center">
+  <img src="public/screenshots/startpage.png" alt="Home Page" style="border: 1px solid #ccc; border-radius: 10px; width:80%;">
+</p>
 
 ### Shop Page
-![Home Page](public/screenshots/homepage.png)
+<p align="center">
+  <img src="public/screenshots/homepage.png" alt="Shop Page" style="border: 1px solid #ccc; border-radius: 10px; width:80%;">
+</p>
 
 ### Cart Page
-![Cart Page](public/screenshots/cart.png)
-
-
+<p align="center">
+  <img src="public/screenshots/cart.png" alt="Cart Page" style="border: 1px solid #ccc; border-radius: 10px; width:80%;">
+</p>
 
 ---
