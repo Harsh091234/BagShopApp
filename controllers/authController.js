@@ -42,11 +42,16 @@ module.exports.loginUser = async(req, res) => {
        if(result){
         let token = generateToken(user);
         res.cookie("token", token);
-        res.send("you can login");
+        res.redirect("/shop");
        }
        else{
         return res.send("email or password incorrect");
        }
     })
 
+}
+
+module.exports.logout = (req, res) => {
+    res.cookie("token", "");
+    res.redirect("/");
 }

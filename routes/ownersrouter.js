@@ -2,7 +2,7 @@ const express =  require("express");
 const router = express.Router();
 const ownersModel = require("../models/ownermodel");
 
-router.get("/", (req, res) => res.send("working"));
+
 
 if(process.env.NODE_ENV === "development"){
     router.post("/create", async(req, res) => {
@@ -22,5 +22,9 @@ if(process.env.NODE_ENV === "development"){
     });
 }
 
+router.get("/admin", (req, res) => {
+    let success = req.flash("success");
+    res.render("createproducts", {success});
+});
 
 module.exports = router;
